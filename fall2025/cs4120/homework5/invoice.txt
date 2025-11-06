@@ -1,0 +1,5 @@
+Order ID: ORD101 | Customer: Alice | Product: Laptop | Quantity: 1
+Order ID: ORD102 | Customer: Bob | Product: Smartphone | Quantity: 2
+Order ID: ORD103 | Customer: Charlie | Product: Monitor | Quantity: 1
+Order ID: ORD105 | Customer: Ethan | Product: Tablet | Quantity: 1
+Order ID: ORD104 | Customer: Diana | Product: Keyboard | Quantity: 3
